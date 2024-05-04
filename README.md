@@ -22,9 +22,11 @@ Key Features:
 📈 Personalized Insights: 
 🎯 Goal Setting:
 
-## Hacktoberfest 2023
+## Girl Script Summer of Code 2023
 
-Euphoria-Check is a part of [Hacktoberfest 2023](https://hacktoberfest.digitalocean.com/), an annual celebration of open source contributions. You can contribute to **Euphoria-Check** by participating in Hacktoberfest. Whether you're a seasoned developer or just starting your open-source journey, your contributions are always welcomed by Open Source Chandigarh!
+Empowering Women in Technology
+
+Join us for an exciting journey of learning, coding, and collaboration! Girl Script Summer of Code is a unique opportunity for women to dive into the world of open source and sharpen their programming skills. Whether you're a beginner or an experienced coder, our inclusive community welcomes you to be a part of this transformative experience. Whether you're a seasoned developer or just starting your open-source journey, your contributions are always welcomed by Open Source Chandigarh!
 
 ## Contributing
 
